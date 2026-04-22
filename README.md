@@ -1,2 +1,2 @@
 # TellerWrite
-A side project for Authors flawless writing 
+A side project for Authors flawless writing image generataion and ideas genertion
